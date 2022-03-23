@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Vishal Bramhankar\eclipse-workspace\Collections\src\com\hcl\collections\.metadata\.plugins\org.eclipse.jdt.core
